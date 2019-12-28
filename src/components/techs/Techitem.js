@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 const TechItem = ({ tech }) => {
   return (
@@ -12,10 +11,6 @@ const TechItem = ({ tech }) => {
       </div>	
     </li>
   )
-}
-
-TechItem.propTypes = {
-
 }
 
 export default TechItem;
