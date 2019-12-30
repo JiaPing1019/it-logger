@@ -1,20 +1,5 @@
 {
-  "logs": [
-    {
-      "message": "Change network card by server 007 ",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-12-30T09:33:56.218Z",
-      "id": 1
-    },
-    {
-      "message": "1122",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-12-30T09:34:06.015Z",
-      "id": 2
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
