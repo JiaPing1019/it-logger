@@ -1,4 +1,4 @@
-import React, {Fragment, useEffect} from 'react';
+import React from 'react';
 import { Provider } from 'react-redux';
 import App from '../App';
 import { mount } from 'enzyme';

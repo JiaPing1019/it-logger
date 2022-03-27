@@ -3,7 +3,6 @@ import {
   ADD_TECH,
   DELETE_TECH,
   SET_LOADING,
-  LOGS_ERROR,
   TECHS_ERROR
 } from '../actions/types';
 
